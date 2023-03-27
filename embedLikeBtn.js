@@ -3,7 +3,7 @@
   
 var iframeList=document.querySelectorAll(".filter_embedquestion-iframe");
 var htmlElement='<span class="likebtn-wrapper" data-identifier="item_1"></span>';
-   
+console.log('test');
 
 
 for (let iframe of iframeList) {
